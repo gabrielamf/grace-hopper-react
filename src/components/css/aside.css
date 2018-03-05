@@ -1,0 +1,37 @@
+.summary {
+  display: inline-block;
+  vertical-align: top;
+  width: 19%;
+  height: 90px;
+  margin-top: 15px;
+}
+
+.summary-table {
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  padding: 1px;
+  font-size: 12px;
+}
+
+.summary-table thead th {
+  background-color: #B0C4DE;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 16px;
+}
+
+.summary-table tbody tr:first-child {
+  text-align: center;
+}
+
+.summary-table tbody th {
+  text-align: left;
+}
+
+.summary-table tbody tr td {
+  padding-left: 15px;
+}
+
+.summary-table tbody tr {
+  margin: 15px;
+}

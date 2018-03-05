@@ -1,0 +1,36 @@
+.biography {
+  width: 80%;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.table {
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  display: inline-block;
+  font-size: 12px;
+  padding-bottom: 10px;
+  padding-left:0px;
+}
+
+.table h3 {
+  text-align: center;
+}
+
+ol.order li {
+  display: block;
+  float: left;
+  width: 10px;
+}
+
+ol.order li span {
+  display: block;
+  float: left;
+  width: 20px;
+}
+
+ol.order li {
+  clear:both;
+  width: 150px;
+}
